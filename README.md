@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xNaelGL
-- 🌱 I’m currently learning GLua and 3D modeling
-- 😄 Pronouns: He / Him
+- 🤴 Hi, I’m @xNaelGL
+- 📡 I’m currently learning GLua and 3D modeling
+- 🎭 Worked with : nobody
 
 <!---
 xNaelGL/xNaelGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
